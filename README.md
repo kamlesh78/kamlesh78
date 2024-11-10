@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kamlesh singh
 - 👀 I’m interested in building new stuff, using program to solve my problems.
-- 🌱 I’m currently learning Spring Framework.
+- 🌱 Experienced in Java, SpringBoot, Mongo, Elastic, Redis, Kafka, RabbitMQ, Redis, Hibernate, Jpa
 
 
 <!---
